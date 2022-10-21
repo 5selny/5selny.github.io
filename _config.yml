@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Be yourself"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Just call me Sarah"
+name                     : "-"
 description              : "Nothing Special"
 url                      : "https://5selny.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
