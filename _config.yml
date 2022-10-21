@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Just call me Sarah"
+  name             : "-"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Be yourself"
+  bio              : "Just call me Sarah"
   location         : "Somewhere"
   email            :
   links:
