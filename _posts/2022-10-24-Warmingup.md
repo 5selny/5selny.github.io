@@ -39,7 +39,7 @@ HTML - 뼈대, 구조(Structure) / CSS - 스타일(Presentation) / JS - 상호�
 ```
 
 > ### CSS  
-----
+
 - 과거 CLI(Command Line Interface) 이용  
 - 현재 UI(User Interface)/UX(User Experience) 중심  
 
@@ -71,12 +71,13 @@ body{
 
 
 > ### CSS 박스  
-레이아웃과 영역을 나누기 
-margin > border > padding > content, 상-우-하-좌 순
+- 레이아웃과 영역을 나누기 
+- margin > border > padding > content
+- top > right > bottom > left
 
----
 
-> ### CSS Display
+> ### CSS Display  
+
 | Inline        | Block         | Inline-block|
 | ------------- |:-------------:| -----------:|
 | 줄바꿈 X        | 줄바꿈 ㅇ      | 줄바꿈 ㅇ       |
