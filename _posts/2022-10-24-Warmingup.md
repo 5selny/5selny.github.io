@@ -35,11 +35,11 @@ HTML - 뼈대, 구조(Structure) / CSS - 스타일(Presentation) / JS - 상호�
 - #### non-semantic tags
 
 ```
-<div>, <span> 등 content에 대하여 어떤 것도 설명하지 않는다.
+<div>, <span> 등 content에 대하여 어떤 것도 설명하지 않는다.  
 ```
 
 > ### CSS  
----------
+----
 - 과거 CLI(Command Line Interface) 이용  
 - 현재 UI(User Interface)/UX(User Experience) 중심  
 
@@ -85,3 +85,4 @@ margin > border > padding > content, 상-우-하-좌 순
 
 너비(width), 높이(heigh), 상하좌우(margin),(padding)
      
+
