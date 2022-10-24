@@ -34,10 +34,10 @@ HTML - 뼈대, 구조(Structure) / CSS - 스타일(Presentation) / JS - 상호�
 
 - #### non-semantic tags
 ```
-<div>, <span> 등 content에 대하여 어떤 것도 설명하지 않는다.  
+<div>, <span> 등 content에 대하여 어떤 것도 설명하지 않는다.
 ```
 
-> ### CSS 
+> ### CSS  
 ---------
 
 - 과거 CLI(Command Line Interface) 이용  
@@ -50,6 +50,7 @@ body{
         
        }
 ```
+
 순서대로 selector, Declaration block 선언, property 속성명, value 속성값
 
 ----
