@@ -27,7 +27,8 @@ Flex box를 사용하기 위해 HTML에서
 앞부분은 그럭저럭 쉬웠는데 뒷부분  
 트윗 작성자, 시간, 내용을 분리하는 곳에서  
 어려움을 맞이했다.  
-<img width="300" alt="스크린샷 2022-10-26 오후 11 06 28" src="https://user-images.githubusercontent.com/115622936/198054617-1bdeab57-0b5c-4d54-a782-1c764692e84f.png">
+<img width="300" alt="스크린샷 2022-10-27 오전 12 33 16" src="https://user-images.githubusercontent.com/115622936/198071701-259462b8-0b5e-432c-b850-8c34c5aabf54.png">
+
 
 바로 이 시간데이터를 작성자와 같은 라인에 두는 것!  
 flex box도 먹히지 않았고, 페어분께서는 너비값을 주어  
@@ -43,7 +44,8 @@ HTML의 body 태그는 자체적으로 부모속성인
 relative 값을 갖는다는 점!
 
 여유롭게 완성하고 미적으로 조금 아쉬운 부분만 수정했다.  
-<img width="300" alt="스크린샷 2022-10-26 오후 11 15 20" src="https://user-images.githubusercontent.com/115622936/198058314-bfacbce4-858c-41a9-a6f5-e0526ab2a90d.png">
+<img width="300" alt="스크린샷 2022-10-27 오전 12 36 00" src="https://user-images.githubusercontent.com/115622936/198070955-ed601f45-4974-49c8-88b5-f4cab7a6541a.png">
+
  
  완성했다는 것에 의의를 둔 결과물..ㅎ  
  하지만 아직도 풀리지 않는 미스테리가 있다.  
