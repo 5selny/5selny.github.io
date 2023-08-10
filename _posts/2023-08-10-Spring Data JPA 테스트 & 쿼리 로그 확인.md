@@ -1,5 +1,7 @@
 ## 쿼리 로그를 확인하고 싶을 때 
 1. src/main/resources 디렉토리 아래에 application.yml 파일을 생성한다
+
+
 ![스크린샷 2023-08-10 오후 11 02 06](https://github.com/5selny/5selny.github.io/assets/115622936/3a81abfa-f320-41c0-aec9-2c32765b00db)
 
 
