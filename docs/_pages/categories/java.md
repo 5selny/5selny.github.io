@@ -1,11 +1,16 @@
 ---
 layout: archive
-permalink: java
+permalink: categories/java
 title: "JAVA"
 
 author_profile: true
-sidebar:
-  nav: "docs"
+sidebar_main: true
+nav: "docs"
 ---
+
+
+{% assign posts = site.categories.java %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+
 
 
