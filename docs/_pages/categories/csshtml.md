@@ -1,11 +1,16 @@
 ---
 layout: archive
-permalink: csshtml
-title: "CSS & HTML"
+permalink: categories/csshtml
+title: "css & html"
 
 author_profile: true
-sidebar:
-  nav: "docs"
+sidebar_main: true
+nav: "docs"
 ---
+
+
+{% assign posts = site.categories.csshtml %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+
 
 
