@@ -1,3 +1,24 @@
+---
+layout: single
+title:  "pagelayout"
+folder: "csshtml"
+categories:
+  - csshtml
+tags: [css, html]
+
+author_profile: true
+sidebar:
+  nav: "docs"
+
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+
+date: 2022-10-25
+---
+
+
 워밍업 단계임에도 불구하고 벌써부터 시간이 부족한 느낌이다.  
 오늘은 Page Layout, Flex box, Wire fame 에 대해  
 공부했다. 이 중에서 Flex box가 오늘의 키포인트!  
