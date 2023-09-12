@@ -1,9 +1,16 @@
 ---
 layout: archive
-permalink: spring
+permalink: categories/spring
 title: "SPRING"
 
 author_profile: true
-sidebar:
-  nav: "docs"
+sidebar_main: true
+nav: "docs"
 ---
+
+
+{% assign posts = site.categories.spring %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+
+
+
