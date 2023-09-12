@@ -1,3 +1,23 @@
+---
+layout: single
+title:  "Thx!Google"
+folder: "csshtml"
+categories:
+  - csshtml
+tags: [css, html]
+
+author_profile: true
+sidebar:
+  nav: "docs"
+
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+
+date: 2022-10-26
+---
+
 오늘은 페어와 함께 HTML, CSS를 이용하여  
 화면 구현을 했고 나름 결과물도 만족스러웠다.  
 욕심은 났지만 아는 것의 한계랄까..  
