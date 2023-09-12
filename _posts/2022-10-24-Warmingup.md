@@ -1,3 +1,24 @@
+---
+layout: single
+title:  "Warmingup"
+folder: "csshtml"
+categories:
+  - csshtml
+tags: [blog, css, html]
+
+author_profile: true
+sidebar:
+  nav: "docs"
+
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+
+date: 2022-10-24
+---
+
+
 오늘의 주제는 HTML(HyperText Markup Language)와 CSS(Cascading Style Sheet). 8시간 안에 끝내기에는 정말 방대한 양이었다. 의문점이 꼬리에 꼬리를 물다보니 처음으로 제 시간 안에 학습을 끝마치지 못했다. "이런 것도 있어요~" 라고 이해하고 가볍게 넘어가도 되는 부분이지만 그냥 지나치지를 못했다.. 예를 들어 HTML이 Markup 언어인데 그럼 깃허브에서 봤던 Markdown과의 차이점은 무엇인가?  
 에서부터 연습문제를 다 풀고 괜히 거기서 더 나아가 이것 저것 추가로 만들다보니 어느덧 5시.  
 
