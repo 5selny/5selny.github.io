@@ -5,7 +5,6 @@ title: "css & html"
 
 author_profile: true
 sidebar_main: true
-nav: "docs"
 ---
 
 
