@@ -19,35 +19,35 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
                     {% if category[0] == "java" %}
-                        <li><a href="/categories/java" class="">JAVA ({{category[1].size}})</a></li>
+                        <li><a href="/categories/java" class="">java ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "spring" %}
-                        <li><a href="/categories/spring" class="">SPRING ({{category[1].size}})</a></li>
+                        <li><a href="/categories/spring" class="">spring ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "csshtml" %}
-                        <li><a href="/categories/csshtml" class="">css & html ({{category[1].size}})</a></li>
+                        <li><a href="/categories/csshtml" class="">csshtml ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "error" %}
-                        <li><a href="/categories/error" class="">ERROR ({{category[1].size}})</a></li>
+                        <li><a href="/categories/error" class="">error ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "dailycording" %}
-                        <li><a href="/categories/dailycording" class="">DAILY CORDING ({{category[1].size}})</a></li>
+                        <li><a href="/categories/dailycording" class="">dailycording ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
