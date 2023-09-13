@@ -1,11 +1,9 @@
 ---
+title: "JAVA"
 layout: archive
 permalink: categories/java
-title: "JAVA"
-
 author_profile: true
 sidebar_main: true
-nav: "docs"
 ---
 
 
