@@ -1,11 +1,9 @@
 ---
+title: "DAILY CORDING"
 layout: archive
 permalink: categories/dailycording
-title: "DAILY CORDING"
-
 author_profile: true
 sidebar_main: true
-nav: "docs"
 ---
 
 
