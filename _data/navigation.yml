@@ -1,18 +1,19 @@
-docs:
+# main links
+main:
   - title: PROGRAMMING
     children:
       - title: "JAVA"
-        url: https://github.com/5selny/categories/java/
+        url: /categories/java/
         category: "java"
       - title: "SPRING"
-        url: https://github.com/5selny/categories/spring/
+        url: /categories/spring/
         category: "spring"
       - title: "css & html"
-        url: https://github.com/5selny/categories/csshtml/
+        url: /categories/csshtml/
         category: "csshtml"
       - title: "ERROR"
-        url: https://github.com/5selny/categories/error/
+        url: /categories/error/
         category: "error"
       - title: "DAILY CORDING"
-        url: https://github.com/5selny/categories/dailycording/
+        url: /categories/dailycording/
         category: “dailycording"
