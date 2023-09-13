@@ -1,9 +1,10 @@
 ---
-title: "JAVA"
+title: "css & html"
 layout: archive
-permalink: categories/java
+permalink: categories/csshtml
 author_profile: true
 sidebar_main: true
+nav: "docs"
 ---
 
 
