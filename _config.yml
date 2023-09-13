@@ -20,7 +20,7 @@ title                    : "Be yourself"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "-"
-description              : "Nothing Special"
+description              : "NothingSpecial"
 url                      : "https://5selny.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ author:
   name             : "-"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just call me Sarah"
-  location         : "South Korea"
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
