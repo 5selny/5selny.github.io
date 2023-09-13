@@ -1,11 +1,9 @@
 ---
+title: "ERROR"
 layout: archive
 permalink: categories/error
-title: "ERROR"
-
 author_profile: true
 sidebar_main: true
-nav: "docs"
 ---
 
 
