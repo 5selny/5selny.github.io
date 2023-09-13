@@ -1,11 +1,9 @@
 ---
+title: "SPRING"
 layout: archive
 permalink: categories/spring
-title: "SPRING"
-
 author_profile: true
 sidebar_main: true
-nav: "docs"
 ---
 
 
