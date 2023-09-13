@@ -4,6 +4,7 @@ layout: archive
 permalink: categories/dailycording
 author_profile: true
 sidebar_main: true
+nav: "docs"
 ---
 
 
