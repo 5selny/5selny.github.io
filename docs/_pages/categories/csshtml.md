@@ -1,8 +1,7 @@
 ---
+title: "css & html"
 layout: archive
 permalink: categories/csshtml
-title: "css & html"
-
 author_profile: true
 sidebar_main: true
 ---
