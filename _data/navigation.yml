@@ -2,18 +2,18 @@
 main:
   - title: PROGRAMMING
     children:
-      - title: "JAVA"
+      - title: "Java"
         url: /categories/java/
         category: "java"
-      - title: "SPRING"
+      - title: "Spring"
         url: /categories/spring/
         category: "spring"
-      - title: "css & html"
+      - title: "csshtml"
         url: /categories/csshtml/
-        category: "csshtml"
-      - title: "ERROR"
+        category: "CssHtml"
+      - title: "Error"
         url: /categories/error/
         category: "error"
-      - title: "DAILY CORDING"
+      - title: "DailyCording"
         url: /categories/dailycording/
         category: “dailycording"
