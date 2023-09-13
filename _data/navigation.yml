@@ -1,6 +1,18 @@
-# main links
-main:
-  - title: "Category"
-    url: /categories/
-  - title: "Tag"
-    url: /tags/
+docs:
+  - title: PROGRAMMING
+    children:
+      - title: "Java"
+        url: /categories/java/
+        category: "java"
+      - title: "Spring"
+        url: /categories/spring/
+        category: "spring"
+      - title: "csshtml"
+        url: /categories/csshtml/
+        category: "CssHtml"
+      - title: "Error"
+        url: /categories/error/
+        category: "error"
+      - title: "DailyCording"
+        url: /categories/dailycording/
+        category: “dailycording"
