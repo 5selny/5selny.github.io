@@ -1,18 +1,12 @@
-docs:
-  - title: PROGRAMMING
-    children:
-      - title: "Java"
-        url: /categories/java/
-        category: "java"
-      - title: "Spring"
-        url: /categories/spring/
-        category: "spring"
-      - title: "csshtml"
-        url: /categories/csshtml/
-        category: "CssHtml"
-      - title: "Error"
-        url: /categories/error/
-        category: "error"
-      - title: "DailyCording"
-        url: /categories/dailycording/
-        category: “dailycording"
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
