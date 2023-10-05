@@ -11,6 +11,8 @@
 스프링 시큐리티 5.2 이상 버전에서 사용되는 람다식 http security 설정 방법은 다음과 같다. 
 
 >### Spring Security 5.2 이상 버전에 사용되는 람다식 설정 방법
+
+
 ```JAVA
 @Configuration
 @EnableWebSecurity
@@ -33,6 +35,7 @@ public class SecurityConfig {
     }
 }
 ```
+
 >### 이전에 사용되었던 설정 방법
 
 ```Java
@@ -57,6 +60,7 @@ public class SecurityConfig {
     }
 }
 ```
+
 Lambda DSL은 Spring Security를 설정하는데 선호되는 방법이다. 이전 스타일은 최신 Spring Security 7 버전에 사용할 수 없다. 
 
 
@@ -73,5 +77,6 @@ Lambda DSL은 Spring Security를 설정하는데 선호되는 방법이다. 이�
 ![스크린샷 2023-10-05 오후 8 16 47](https://github.com/5selny/5selny.github.io/assets/115622936/d83aea81-2e5a-4563-890e-e2e330601471) 
 
 후
-![스크린샷 2023-10-05 오후 8 51 13](https://github.com/5selny/5selny.github.io/assets/115622936/d83edf5b-b00d-4561-b38c-152b55d1f783)
+
+![스크린샷 2023-10-05 오후 11 15 16](https://github.com/5selny/5selny.github.io/assets/115622936/480db4be-f28a-41a0-a5e0-998d814af1cc)
 
