@@ -26,7 +26,7 @@ sidebar:
 >### Spring Security 5.2 이상 버전에 사용되는 람다식 설정 방법
 
 
-```JAVA
+```java
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig {
@@ -51,7 +51,7 @@ public class SecurityConfig {
 
 >### 이전에 사용되었던 설정 방법
 
-```Java
+```java
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig {
