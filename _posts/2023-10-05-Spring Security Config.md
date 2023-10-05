@@ -1,3 +1,16 @@
+---
+layout: single
+title:  "Spring Security Configuration"
+categories: spring
+tag: [spring, blog, error]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---
 
 
 ># Spring Security Config
