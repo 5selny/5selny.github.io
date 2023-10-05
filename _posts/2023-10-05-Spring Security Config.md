@@ -76,6 +76,9 @@ Lambda DSL은 Spring Security를 설정하는데 선호되는 방법이다. 이�
 전
 ![스크린샷 2023-10-05 오후 8 16 47](https://github.com/5selny/5selny.github.io/assets/115622936/d83aea81-2e5a-4563-890e-e2e330601471) 
 
+
+<참고: https://docs.spring.io/spring-security/reference/migration-7/configuration.html#_use_the_lambda_dsl >
+
 후
 
 ![스크린샷 2023-10-05 오후 11 15 16](https://github.com/5selny/5selny.github.io/assets/115622936/480db4be-f28a-41a0-a5e0-998d814af1cc)
