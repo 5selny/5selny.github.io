@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Spring Security Configuration"
+title:  "Spring Security Config"
 categories: spring
 tag: [spring, blog, error]
 toc: true
