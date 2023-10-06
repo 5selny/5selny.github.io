@@ -5,19 +5,19 @@ main:
   - title: "Tag"
     url: /tags/
 
-docs:
-  - title: "Programming"
-    children:
-      - title: "Java"
-        url: /java/
-      - title: "CssHtml"
-        url: /csshtml/
-      - title: "Spring"
-        url: /spring/
-      - title: "DailyCording"
-        url: /dailycording/
-      - title: "Error"
-        url: /error/
+# docs:
+#   - title: "Programming"
+#     children:
+#       - title: "Java"
+#         url: /java/
+#       - title: "CssHtml"
+#         url: /csshtml/
+#       - title: "Spring"
+#         url: /spring/
+#       - title: "DailyCording"
+#         url: /dailycording/
+#       - title: "Error"
+#         url: /error/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
