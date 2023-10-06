@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "[Thymeleaf] EL1007E: Property or field 'token' cannot be found on null"
-categories: error
+categories: spring
 tag: [spring, blog, error]
 toc: true
 toc_label: "목록"
