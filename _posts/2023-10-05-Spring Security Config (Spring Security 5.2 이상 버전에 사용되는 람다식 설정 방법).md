@@ -91,6 +91,7 @@ Lambda DSL은 Spring Security를 설정하는데 선호되는 방법이다. 이�
 
 
 👇🏻참고 
+
 [spring security reference](https://docs.spring.io/spring-security/reference/migration-7/configuration.html#_use_the_lambda_dsl)
 
 후
