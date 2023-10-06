@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Spring Security Config"
+title:  "Spring Security Config (Spring Security 5.2 이상 버전에 사용되는 람다식 설정 방법)"
 categories: spring
 tag: [spring, blog, error]
 toc: true
