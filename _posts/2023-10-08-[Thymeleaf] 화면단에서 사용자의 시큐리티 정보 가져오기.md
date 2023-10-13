@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Spring Security Config"
+title:  "[Thymeleaf] 화면단에서 사용자의 시큐리티 정보 가져오기"
 categories: spring
 tag: [spring, blog]
 toc: true
