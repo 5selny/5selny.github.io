@@ -49,3 +49,6 @@ sec:authorize="hasAnyAuthority('ROLE_ADMIN')
 sec:authorize="isAuthenticated()
 sec:authorize="isAnonymous()
 ```
+
+👇🏻 참고
+[Thymeleaf + Spring Security](https://www.thymeleaf.org/doc/articles/springsecurity.html)
