@@ -1,4 +1,18 @@
-@EnableJpaAuditing
+---
+layout: single
+title:  "@EnableJpaAuditing"
+categories: spring
+tag: [blog, spring, jpa]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
+# @EnableJpaAuditing
 
 객체를 생성하거나 수정할 때 생성자와 Setter 에 LocalDateTime.now() 등 시간을 나타내는 객체를 넣어 생성일자와 수정일자를 관리할 수 있다.
 하지만 여러 엔터티에서 이러한 코딩을 매번 하는 것은 단순하고 번거로운 작업이다.
