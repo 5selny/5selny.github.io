@@ -1,3 +1,18 @@
+---
+layout: single
+title:  "@Enumerated"
+categories: spring
+tag: [blog, spring, jpa]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
+
 ### ```@Enumerated``` 
 java 의 enum 타입을 엔티티 클래스의 속성으로 사용할 수 있다. 
 
