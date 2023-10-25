@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "assertThrows"
+categories: spring
+tag: [jpa, blog, spring, java]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
 # Exception Testing 
 
   
