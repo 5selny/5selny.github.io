@@ -1,3 +1,18 @@
+---
+layout: single
+title:  "@Transactional(readOnly = true) error"
+categories: spring
+tag: [blog, spring, jpa, error]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
+
 ![2](https://user-images.githubusercontent.com/115622936/226861022-ad105629-bd37-4913-86fa-e6a22354930d.png)  
   
 쪽지 기능 중 한 명이 받은 모든 받은 편지함을 조회하는 메서드 위에 @Transactional(readOnly = true) 를 추가해주었더니  
