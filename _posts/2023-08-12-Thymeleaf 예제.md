@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "Thymeleaf 예제"
+categories: csshtml
+tag: [blog, css, html]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
 <h2> 1. th:text </h2>
 <h2> 2. th:each </h2> 
   여러 개의 데이터를 가지고 있는 컬렉션 데이터를 화면에 출력
