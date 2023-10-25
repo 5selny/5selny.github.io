@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "Thymeleaf"
+categories: csshtml
+tag: [blog, css, html]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
 # Thymeleaf 
 가공한 데이터를 이용하여 화면을 만드는 방법 
 - 미리 정의된 템플릿을 만들고 동적으로 HTML 페이지를 만들어서 클라이언트에 전달하는 방식
