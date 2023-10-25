@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "Spring Data JPA 테스트 & 쿼리 로그 확인"
+categories: spring
+tag: [blog, spring, jpa]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
 ## 쿼리 로그를 확인하고 싶을 때  
 Hibernate 가 DB 에 보내는 모든 쿼리를 보여줌
 
