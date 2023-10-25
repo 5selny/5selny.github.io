@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "Thymeleaf Layout"
+categories: error
+tag: [blog, java, error, csshtml]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
 # Thymeleaf Layout 
 ![스크린샷 2023-08-29 오후 10 11 44](https://github.com/5selny/5selny.github.io/assets/115622936/be92397f-9060-4c4c-8d3b-fbf8b7a9eba0)
 ![스크린샷 2023-08-29 오후 10 11 55](https://github.com/5selny/5selny.github.io/assets/115622936/ca9e1005-b516-46bd-b11e-65e3aede45b3) 
