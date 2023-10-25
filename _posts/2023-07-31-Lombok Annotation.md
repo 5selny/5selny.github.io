@@ -1,3 +1,18 @@
+---
+layout: single
+title:  "Lombok Annotation"
+categories: spring
+tag: [blog, spring, jpa]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
+
 > # Lombok Annotation
 
  ### ``` @ToString ```
