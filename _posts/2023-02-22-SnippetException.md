@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "SnippetException"
+categories: spring
+tag: [blog, spring, jpa, error]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
 <h2> SnippetException </h2> 
 
 MemberController 테스트 코드에서 마주친 SnippetException.  
