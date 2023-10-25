@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "@Controller 와 @RestController 의 차이"
+categories: spring
+tag: [jpa, blog, spring, java]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
 스프링 부트 쇼핑몰 프로젝트 with JPA 책으로 공부하면서 앞서 프로젝트를 위해 배웠던 것과는 달라 정리를 해보았다.
 그때는 쓰면서도 왜 쓰는지 몰랐던 것들이, 멘토분들이 ```@Controller```와 ```@RestController``` 차이에 대해 알아보라고 해서 간략하게나마 알아보았던 것들이
 이번 공부를 통해 직접 코드를 쳐보며 차이를 몸소 느낄 수 있어서 좋았다.
