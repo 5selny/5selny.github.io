@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "@NotNull, @NotBlank, @NotEmpty 차이"
+categories: spring
+tag: [jpa, blog, spring, java]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
 # @NotNull, @NotBlank @NotEmpty 차이 
 
 - javax.validation.constraints package에 포함된 기능으로 api에서 값을 입력받을 때 validation 체크를 위해 사용되는 어노테이션 
