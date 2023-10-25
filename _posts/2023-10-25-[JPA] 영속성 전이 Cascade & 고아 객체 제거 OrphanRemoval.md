@@ -38,6 +38,16 @@ JPA 에서는 부모 엔티티와 연관 관계가 끊어진 자식 엔티티를
 <img width="482" alt="image" src="https://github.com/5selny/5selny.github.io/assets/115622936/fa8260da-4b86-4ead-a9ba-57bf3eb79615">
 
 
+![스크린샷 2023-10-25 오후 8 29 23](https://github.com/5selny/5selny.github.io/assets/115622936/a4185104-10f5-4909-8ea7-2024b6ef5248)  
+```@OneToMany``` 어노테이션에 ```orphanRemoval = true``` 옵션을 추가.  
+주문 엔티티(부모 엔티티)에서 주문 상품(자식 엔티티)를 삭제했을 때 orderItem 엔티티가 삭제되는지 확인하는 테스트 코드.    
+
+flush()를 호출하면 콘솔창에 orderItem 을 삭제하는 쿼리문이 출력.  
+즉, 부모 엔티티와 연관 관계가 끊어졌기 때문에 고아 객체를 삭제하는 쿼리문이 실행.  
+
+```cascade = CascadeType.REMOVE``` 옵션과 헷갈릴 수 있음.  
+CascadeType.REMOVE 옵션은 부모 엔티티가 삭제될 때 연관된 자식 엔티티도 함께 삭제.  
+Order 를 삭제하면 order 에 매핑되어 있던 orderitem 이 삭제되는 것이다.  
 
 ### [JPA] cascade = CascadeType.REMOVE 와 @OnDelete(action = onDeleteAction.CASCADE)의 차이
 
