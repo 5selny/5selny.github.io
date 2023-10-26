@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "@EnableJpaAuditing"
+title:  "JpaAuditing"
 categories: spring
 tag: [blog, spring, jpa]
 toc: true
@@ -42,5 +42,5 @@ sidebar:
  - ```@CreatedDate```: 생성 일자를 관리하는 필드에 현재 날짜를 주입하는 작업을 수행
  - ```@Column( updatable = false )```: 생성일자, 생성자에 대한 필드이기 때문에 수정 불가하도록 설정
 
-
+ ## 3. 엔티티에서 extends 로 상속받기
 
