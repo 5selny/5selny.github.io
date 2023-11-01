@@ -2,7 +2,7 @@
 layout: single
 title:  "Thymeleaf Layout"
 categories: csshtml
-tag: [blog, java, error, css, html]
+tag: [blog, error, css, html]
 toc: true
 toc_label: "목록"
 toc_icon: "bars"
