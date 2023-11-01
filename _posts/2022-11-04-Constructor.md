@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Constructor"
-categories: JAVA
-tag: [jpa, blog, java]
+categories: java
+tag: [blog, java]
 toc: true
 toc_label: "목록"
 toc_icon: "bars"
