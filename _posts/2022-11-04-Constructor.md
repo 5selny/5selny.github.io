@@ -1,3 +1,17 @@
+---
+layout: single
+title:  "Constructor"
+categories: JAVA
+tag: [jpa, blog, java]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
 오늘은 생성자(Constructor)와 내부클래스(Inner Class)에 대해 배웠다. 월~목 학습량에 비해 오늘은 살짝 쉬어가는 타임이랄까? 개념은 분명 머리 속에 잘 들어있는데 코드만 보면 뭐가 뭔지 헷갈리고 아리송하다. 그래서 오늘 남는 시간에는 코드보는 법과 흐름을 머리속에서 그려보는 것에 집중했다. 처음에는 코드를 딱 봤을 때 얘가 변수구나 얘가 반환값이구나 정도만 알았는데 이제는 어느정도 머리 속에 그림도 그려지고 생성자 뭔지 메서드가 뭔지 알 것 같았다. 그렇지만 막상 빈 페이지를 딱 주고 코드를 작성해보라고 하면 어디서부터 어떻게 작성해가야할지 가늠이 안잡힌다. 주말 하루는 문제 풀이, 하루는 짧은 코드라도 직접 작성해보는 시간을 가져야겠다. 그리고 머리를 식힐 시간도 조금 가져야지! 
 <br><br>
 
