@@ -1,3 +1,18 @@
+---
+layout: single
+title:  "Encapsulation"
+categories: JAVA
+tag: [jpa, blog, java]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
+
 드디어 import, package, public, static 등 예제에서 수없이 보았던 단어들의 미스테리가 풀렸다. 참으로 속이 시원한 순간이 아닐 수 없었다. 늘 그렇듯 개념 자체는 이해가 잘 되는데 막상 인텔리제이 빈 화면을 띄워놓고 코드작성을 시작하자니 뭘 어떻게 써야할지 감이 안잡힌다... 알고리즘 문제를 풀때처럼 자괴감이 몰려와서 이 문제를 어떻게 해결하면 좋을까 하다가 일단 예제 코드를 무작정 외울까 했는데 그것보다는 만들고 싶었던 간단한 프로그램을 조금씩 만들어보기로 했다.  
 <br>
 
