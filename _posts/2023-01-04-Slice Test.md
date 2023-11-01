@@ -1,3 +1,18 @@
+---
+layout: single
+title:  "Slice Test"
+categories: spring
+tag: [jpa, blog, spring, java, error]
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
+author_profiles: false
+sidebar:
+    nav: "docs"
+---  
+
+
 > <H2> Controller Slice Test
 > <H5> patchMemberTest, getMembersTest, deleteMember
   
