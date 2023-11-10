@@ -1,0 +1,23 @@
+# 💎 UUID(Universally Unique Identifier)
+
+### 1. UUID 란?
+
+-  범용 고유 식별자를 의미하며 중복이 되지 않는 유일한 값을 구성하고자 할때 사용
+-  주로 세션 식별자, 쿠키 값, 무작위 데이터베이스 키 등에 사용
+
+
+### 2. UUID 구성 
+
+- UUID는 16바이트(128비트) 형태의 구조
+- 하나의 UUID 길이는 36자리
+- “4개의 하이픈(-)”과 “32개의 16진수 문자열”로 구성
+
+### 3. import java.util.UUID 메서드 종류 
+
+- ```static UUID randomUUID()```: 무작위 UUID를 생성
+- ```static UUID fromString(String uuid)```: 주어진 UUID 문자열로부터 UUID를 생성
+- ```long getLeastSignificantBits()```: 이 UUID의 가장 낮은 64비트를 반환
+- ```long getMostSignificantBits()```: 이 UUID의 가장 높은 64비트를 반환
+- ```int compareTo(UUID val)```: 이 UUID와 주어진 UUID를 비교
+- ```boolean equals(Object obj)```: 이 UUID와 주어진 객체가 같은지 여부를 반환
+- ```String toString()```: 이 UUID를 문자열로 반환
