@@ -41,4 +41,14 @@ sidebar:
 - springBoot 에서는 자동 등록을 지원, springMVC 에서는 기본으로 등록해주지 않으므로 꼭 확인해야 한다
   - MultipartFile 인터페이스는 스프링에서 업로드한 파일을 표현할 때 사용되는 인터페이스이다
   - MultipartFile 인터페이스를 이용해서 업로드한 파일의 이름, 실제 데이터, 파일 크기 등을 구할 수 있다
- 
+
+
+|메소드|설명| 
+| ------------- |:-------------:| 
+|String getName()|파라미터 이름을 구함| 
+|String getOriginalFilename()|업로드한 파일의 이름을 구함| 
+|String isEmpty()|업로드한 파일이 존재하지 않는 경우 true를 리턴함|
+|long getSize()|업로드한 파일 크기를 구함|
+|byte[] getBytes() throws IOException|업로드한 파일 데이터를 구함|
+|InputStream getInputStream() throws IOException|업로드한 파일 데이터를 읽어오는 InputStrea을 구함. InputStream의 사용이 끝나면 알맞게 종료해주어야 함|
+|void transfer To(File dest) throws IOException|업로드한 파일 데이터를 지정한 파일에 저장함|
